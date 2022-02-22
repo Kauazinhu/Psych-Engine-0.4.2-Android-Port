@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-58
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "kyleidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-8
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "kyleup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-46
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "kyleright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-73
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "kyledown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				-35
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "kyleleft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/kyleexe",
+	"position": [
+		0,
+		270
+	],
+	"healthicon": "kyle",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		102,
+		102
+	],
+	"camera_position": [
+		-130,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

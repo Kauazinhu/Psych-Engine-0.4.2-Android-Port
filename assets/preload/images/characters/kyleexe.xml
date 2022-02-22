@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kyleexe.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kyledown0000" x="10" y="10" width="305" height="341"/>
+	<SubTexture name="kyledown0001" x="325" y="10" width="305" height="341"/>
+	<SubTexture name="kyledown0002" x="640" y="10" width="305" height="341"/>
+	<SubTexture name="kyledown0003" x="640" y="10" width="305" height="341"/>
+	<SubTexture name="kyledown0004" x="955" y="10" width="305" height="341"/>
+	<SubTexture name="kyledown0005" x="955" y="10" width="305" height="341"/>
+	<SubTexture name="kyledown0006" x="1270" y="10" width="305" height="341"/>
+	<SubTexture name="kyleidle0000" x="1585" y="10" width="323" height="354"/>
+	<SubTexture name="kyleidle0001" x="1585" y="10" width="323" height="354"/>
+	<SubTexture name="kyleidle0002" x="10" y="374" width="323" height="354"/>
+	<SubTexture name="kyleidle0003" x="10" y="374" width="323" height="354"/>
+	<SubTexture name="kyleidle0004" x="343" y="374" width="323" height="354"/>
+	<SubTexture name="kyleidle0005" x="343" y="374" width="323" height="354"/>
+	<SubTexture name="kyleidle0006" x="676" y="374" width="323" height="354"/>
+	<SubTexture name="kyleidle0007" x="676" y="374" width="323" height="354"/>
+	<SubTexture name="kyleidle0008" x="1009" y="374" width="323" height="354"/>
+	<SubTexture name="kyleidle0009" x="1009" y="374" width="323" height="354"/>
+	<SubTexture name="kyleidle0010" x="1342" y="374" width="323" height="354"/>
+	<SubTexture name="kyleidle0011" x="1342" y="374" width="323" height="354"/>
+	<SubTexture name="kyleidle0012" x="1675" y="374" width="323" height="354"/>
+	<SubTexture name="kyleidle0013" x="1675" y="374" width="323" height="354"/>
+	<SubTexture name="kyleleft0000" x="10" y="738" width="337" height="377"/>
+	<SubTexture name="kyleleft0001" x="10" y="738" width="337" height="377"/>
+	<SubTexture name="kyleleft0002" x="357" y="738" width="337" height="377"/>
+	<SubTexture name="kyleleft0003" x="357" y="738" width="337" height="377"/>
+	<SubTexture name="kyleleft0004" x="704" y="738" width="337" height="377"/>
+	<SubTexture name="kyleleft0005" x="704" y="738" width="337" height="377"/>
+	<SubTexture name="kyleleft0006" x="1051" y="738" width="337" height="377"/>
+	<SubTexture name="kyleright0000" x="1398" y="738" width="313" height="366"/>
+	<SubTexture name="kyleright0001" x="1398" y="738" width="313" height="366"/>
+	<SubTexture name="kyleright0002" x="1721" y="738" width="313" height="366"/>
+	<SubTexture name="kyleright0003" x="1721" y="738" width="313" height="366"/>
+	<SubTexture name="kyleright0004" x="10" y="1125" width="313" height="366"/>
+	<SubTexture name="kyleright0005" x="10" y="1125" width="313" height="366"/>
+	<SubTexture name="kyleright0006" x="333" y="1125" width="313" height="366"/>
+	<SubTexture name="kyleup0000" x="656" y="1125" width="307" height="404"/>
+	<SubTexture name="kyleup0001" x="656" y="1125" width="307" height="404"/>
+	<SubTexture name="kyleup0002" x="973" y="1125" width="307" height="404"/>
+	<SubTexture name="kyleup0003" x="973" y="1125" width="307" height="404"/>
+	<SubTexture name="kyleup0004" x="1290" y="1125" width="307" height="404"/>
+	<SubTexture name="kyleup0005" x="1290" y="1125" width="307" height="404"/>
+	<SubTexture name="kyleup0006" x="1607" y="1125" width="307" height="404"/>
+</TextureAtlas>
